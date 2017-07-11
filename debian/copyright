@@ -1,0 +1,17 @@
+This package was debianized by Syai Mif <syai.unipdu@gmail.com>  Tue, 08 Jul 2014 22:37:21 +0700.
+	
+This package was downloaded from http://dev.blankonlinux.or.id/browser/tambora/tebu-icon-theme
+	
+Upstream Author: Herpiko Dwi Aguno a.k.a Piko (herpiko@gmail.com)
+	
+License: Gnu/GPL
+	
+The BlankOn Icon Theme is licensed under the GPL v2.
+	
+	
+The Debian packaging is Copyright BlankON Developers, and is under the terms of the
+GPL v3.
+
+On Debian/Ubuntu systems, the full text of the GPL version 2 can be found in
+`/usr/share/common-licenses/GPL-2', and the full text of the GPL version 3
+can be found in `/usr/share/common-licenses/GPL-3'.

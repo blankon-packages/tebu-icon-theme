@@ -1,0 +1,51 @@
+<svg height="96" width="96" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <defs>
+  <linearGradient id="linearGradient5092">
+   <stop stop-color="#be9f6a"/>
+   <stop stop-color="#e5d2b2" offset="1"/>
+  </linearGradient>
+  <linearGradient x2="0" xlink:href="#linearGradient5092" y1="90" y2="5.988" gradientUnits="userSpaceOnUse" id="linearGradient262673" gradientTransform="matrix(0.44226 0 0 0.39482 7.486 1000.6)"/>
+  <linearGradient x2="0" y1="90" y2="5.988" gradientUnits="userSpaceOnUse" id="linearGradient262683" gradientTransform="matrix(0.44226 0 0 0.39482 7.486 964.74)">
+   <stop stop-color="#b4b4b4"/>
+   <stop stop-color="#dcdcdc" offset="1"/>
+  </linearGradient>
+  <linearGradient x2="0" xlink:href="#linearGradient5092" y1="90" y2="5.988" gradientUnits="userSpaceOnUse" id="linearGradient262691" gradientTransform="matrix(0.44226 0 0 0.39482 43.34 964.74)"/>
+  <linearGradient x2="0" y1="-26.707" y2="93" gradientUnits="userSpaceOnUse" id="linearGradient262722">
+   <stop stop-color="#b4b4b4"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(1 0 0 1 0 -956.36)">
+  <rect x="3.353" rx="12.724" y="959.35" fill-opacity="0.02" height="89.98" width="89.62"/>
+  <rect x="3.959" rx="12.552" y="959.96" fill-opacity="0.039" height="88.76" width="88.41"/>
+  <rect x="4.564" rx="12.38" y="960.57" fill-opacity="0.078" height="87.55" width="87.2"/>
+  <rect x="5.17" rx="12.208" y="961.18" fill-opacity="0.157" height="86.33" width="85.991"/>
+  <path d="m17.75 5.4062c-6.642 0-11.969 5.3948-11.969 12.063l0.0002 61.031c0 6.668 5.3268 12.031 11.969 12.031h60.812c6.642 0 11.969-5.363 11.969-12.031v-61.031c0-6.668-5.327-12.063-11.969-12.063l-60.812 0.0002z" fill="url(#linearGradient262722)" transform="matrix(1 0 0 1 0 956.36)"/>
+  <path d="m5.7756 1033.9v1.0133c0 6.668 5.3434 12.032 11.985 12.032h60.809c6.6418 0 11.985-5.3645 11.985-12.032v-1.0133c0 6.6681-5.3434 12.032-11.985 12.032h-60.809c-6.6418 0-11.985-5.3644-11.985-12.032z" fill-opacity="0.098"/>
+  <path d="m5.7756 1029.8v5.0663c0 6.668 5.3434 12.032 11.985 12.032h60.809c6.6418 0 11.985-5.3645 11.985-12.032v-5.0663c0 6.6681-5.3434 12.032-11.985 12.032h-60.809c-6.6418 0-11.985-5.3643-11.985-12.032z" fill-opacity="0.235"/>
+  <path d="m18.901 968.48c-2.4856 0-4.4792 1.9566-4.4792 4.3752v22.137c0 2.4184 1.9936 4.3638 4.4792 4.3638h22.759c2.4857 0 4.4793-1.9453 4.4793-4.3638v-22.137c0-2.4185-1.9936-4.3752-4.4793-4.3752h-22.759z" fill="#ececec"/>
+  <path d="m18.929 969.46c-2.4794 0-4.4681 1.967-4.4681 4.3983v22.253c0 2.4313 1.9886 4.3869 4.4681 4.3869h22.702c2.4795 0 4.4681-1.9556 4.4681-4.3869v-22.253c0-2.4313-1.9886-4.3983-4.4681-4.3983h-22.702z" fill="#666"/>
+  <path d="m18.825 969.46c-2.5023 0-4.5092 1.8957-4.5092 4.2389v21.447c0 2.3433 2.0069 4.2278 4.5092 4.2278h22.911c2.5023 0 4.5092-1.8846 4.5092-4.2278v-21.447c0-2.3432-2.0069-4.2389-4.5092-4.2389h-22.911z" fill="#b3b3b3"/>
+  <path d="m19.397 969.07c-2.3772 0-4.2839 1.9308-4.2839 4.3174v21.844c0 2.3867 1.9066 4.3062 4.2839 4.3062h21.766c2.3772 0 4.2839-1.9195 4.2839-4.3062v-21.844c0-2.3866-1.9066-4.3174-4.2839-4.3174h-21.766z" fill="url(#linearGradient262683)"/>
+  <text font-size="17.745" x="25.04" letter-spacing="0" y="990" line-height="125%" fill="#ececec" word-spacing="0" font-family="Sans"><tspan x="25.04" y="990">A</tspan>
+  </text>
+  <path d="m54.751 968.48c-2.4856 0-4.4792 1.9566-4.4792 4.3752v22.137c0 2.4184 1.9936 4.3638 4.4792 4.3638h22.759c2.4857 0 4.4793-1.9453 4.4793-4.3638v-22.137c0-2.4185-1.9936-4.3752-4.4793-4.3752h-22.759z" fill="#ececec"/>
+  <path d="m54.78 969.46c-2.4794 0-4.4681 1.967-4.4681 4.3983v22.253c0 2.4313 1.9886 4.3869 4.4681 4.3869h22.702c2.4795 0 4.4681-1.9556 4.4681-4.3869v-22.253c0-2.4313-1.9886-4.3983-4.4681-4.3983h-22.702z" fill="#666"/>
+  <path d="m54.675 969.46c-2.5023 0-4.5092 1.8957-4.5092 4.2389v21.447c0 2.3433 2.0069 4.2278 4.5092 4.2278h22.911c2.5023 0 4.5092-1.8846 4.5092-4.2278v-21.447c0-2.3432-2.0069-4.2389-4.5092-4.2389h-22.911z" fill="#b3b3b3"/>
+  <path d="m55.248 969.07c-2.3772 0-4.2839 1.9308-4.2839 4.3174v21.844c0 2.3867 1.9066 4.3062 4.2839 4.3062h21.766c2.3772 0 4.2839-1.9195 4.2839-4.3062v-21.844c0-2.3866-1.9066-4.3174-4.2839-4.3174h-21.766z" fill="url(#linearGradient262691)"/>
+  <text font-size="17.745" x="60.889" letter-spacing="0" y="990" line-height="125%" fill="#ececec" word-spacing="0" font-family="Sans"><tspan x="60.889" y="990">Z</tspan>
+  </text>
+  <path d="m18.901 1004.3c-2.4856 0-4.4792 1.9566-4.4792 4.3751v22.137c0 2.4185 1.9936 4.3638 4.4792 4.3638h45.956c2.4857 0 4.4793-1.9453 4.4793-4.3638v-22.137c0-2.4185-1.9936-4.3751-4.4793-4.3751z" fill="#ececec"/>
+  <path d="m18.929 1005.3c-2.4794 0-4.4681 1.967-4.4681 4.3983v22.253c0 2.4314 1.9886 4.3869 4.4681 4.3869h45.899c2.4795 0 4.4681-1.9555 4.4681-4.3869v-22.253c0-2.4313-1.9886-4.3983-4.4681-4.3983z" fill="#666"/>
+  <path d="m18.825 1005.3c-2.5023 0-4.5092 1.8957-4.5092 4.2389v21.447c0 2.3432 2.0069 4.2278 4.5092 4.2278h46.109c2.5023 0 4.5092-1.8846 4.5092-4.2278v-21.447c0-2.3432-2.0069-4.2389-4.5092-4.2389z" fill="#b3b3b3"/>
+  <path d="m19.397 1004.9c-2.3772 0-4.2839 1.9308-4.2839 4.3174v21.844c0 2.3867 1.9066 4.3062 4.2839 4.3062h44.964c2.3772 0 4.2839-1.9195 4.2839-4.3062v-21.844c0-2.3866-1.9066-4.3174-4.2839-4.3174z" fill="url(#linearGradient262673)"/>
+  <text font-size="17.04" x="23.01" letter-spacing="0" y="1026.06" line-height="125%" fill="#ececec" word-spacing="0" font-family="Sans"><tspan x="23.01" y="1026.06">Shift</tspan>
+  </text>
+  <text font-size="17.745" x="25.384" letter-spacing="0" y="989.65" line-height="125%" fill="#333333" word-spacing="0" font-family="Sans"><tspan x="25.384" y="989.65">A</tspan>
+  </text>
+  <text font-size="17.745" x="61.23" letter-spacing="0" y="989.65" line-height="125%" fill="#333333" word-spacing="0" font-family="Sans"><tspan x="61.23" y="989.65">Z</tspan>
+  </text>
+  <text font-size="17.04" x="23.358" letter-spacing="0" y="1025.72" line-height="125%" fill="#333333" word-spacing="0" font-family="Sans"><tspan x="23.358" y="1025.72">Shift</tspan>
+  </text>
+ </g>
+</svg>

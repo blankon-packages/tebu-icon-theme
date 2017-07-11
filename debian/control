@@ -1,0 +1,15 @@
+Source: tebu-icon-theme
+Section: gnome
+Priority: optional
+Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
+Build-Depends: debhelper (>= 8.0.0), python-scour, icon-naming-utils, python-rsvg
+Standards-Version: 3.9.4
+Homepage: https://github.com/BlankOn/Tebu
+Vcs-Bzr: http://dev.blankonlinux.or.id/bzr/tambora/tebu-icon-theme
+
+Package: tebu-icon-theme
+Architecture: all
+Depends: libgtk-3-0
+Description: Tebu Icon Theme for BlankOn GNU/Linux
+ This icon theme provides a scalable group of icons to be used by GTK+ 3.x
+ applications like GNOME 3, this distributed for BlankOn GNU/Linux.

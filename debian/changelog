@@ -1,0 +1,135 @@
+tebu-icon-theme (0.2-22) tambora; urgency=medium
+
+  * Change arch to all
+
+ -- Ahmad Haris <haris@blankonlinux.or.id>  Sun, 28 Aug 2016 13:05:00 +0700
+
+tebu-icon-theme (0.2-21) tambora; urgency=medium
+
+  * Rebuild 
+
+ -- dotovr <dotovr@preko>  Tue, 07 Jun 2016 22:29:49 +0700
+
+tebu-icon-theme (0.2-20) tambora; urgency=medium
+
+  * menambahkan ikon libreoffice5.0  
+
+ -- Aris Winardi <me@arwin.my.id>  Mon, 28 Sep 2015 11:43:46 +0700
+
+tebu-icon-theme (0.2-19) tambora; urgency=medium
+
+  * ubah gaya ikon folder 
+
+ -- Aris Winardi <me@arwin.my.id>  Tue, 25 Aug 2015 23:21:18 +0700
+
+tebu-icon-theme (0.2-18) tambora; urgency=medium
+
+  * tambah ikon baru
+
+ -- Arwin <me@arwin.my.id>  Sun, 28 Jun 2015 00:36:44 +0700
+
+tebu-icon-theme (0.2-17) tambora; urgency=medium
+
+  * merubah warna symbolic icon.
+  * memperbaiki ukuran symbolic icon
+
+ -- Arwin <me@arwin.my.id>  Mon, 15 Jun 2015 08:59:58 +0700
+
+tebu-icon-theme (0.2-15) tambora; urgency=medium
+
+  * Menambah ikon
+  * Memperbaiki symlink
+
+ -- Arwin <me@arwin.my.id>  Sun, 14 Jun 2015 05:53:21 +0700
+
+tebu-icon-theme (0.2-14) tambora; urgency=medium
+
+  * mencoba build 
+
+ -- Arwin <me@arwin.my.id>  Mon, 08 Jun 2015 22:57:21 +0700
+
+tebu-icon-theme (0.2-13) tambora; urgency=medium
+
+  * Rebuild bro !!!
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 07 Jun 2015 14:28:57 +0700
+
+tebu-icon-theme (0.2-12) tambora; urgency=medium
+
+  * Rebuild
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 07 Jun 2015 01:26:56 +0700
+
+tebu-icon-theme (0.2-11) tambora; urgency=medium
+
+  * Rebuild
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 27 May 2015 00:26:11 +0700
+
+tebu-icon-theme (0.2-10) tambora; urgency=low
+
+  * Rebuild 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Sat, 02 May 2015 15:16:38 +0700
+
+tebu-icon-theme (0.2-9) tambora; urgency=low
+
+  * Remove file conflict  
+
+ -- Mahyuddin <yudi.al@gmail.com>  Sat, 02 May 2015 14:43:15 +0700
+
+tebu-icon-theme (0.2-8) tambora; urgency=low
+
+  * Change symbolic icons colors 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 30 Apr 2015 00:17:45 +0700
+
+tebu-icon-theme (0.2-7) tambora; urgency=low
+
+  * user-desktop-symbolic.svg: change color to #666666 
+    - black not show in panel
+
+ -- Mahyuddin <yudi.al@gmail.com>  Wed, 29 Apr 2015 23:30:29 +0700
+
+tebu-icon-theme (0.2-6) tambora; urgency=low
+
+  * Added new icons 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Wed, 29 Apr 2015 18:35:36 +0700
+
+tebu-icon-theme (0.2-5) tambora; urgency=low
+
+  * Add new icons 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Wed, 29 Apr 2015 14:36:09 +0700
+
+tebu-icon-theme (0.2-4) tambora; urgency=low
+
+  * modified somi icons
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 27 Apr 2015 21:22:23 +0700
+
+tebu-icon-theme (0.2-3) tambora; urgency=low
+
+  * From github/blankon :
+    - added icon media family by Arsi Winardi
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 16 Apr 2015 18:50:44 +0700
+
+tebu-icon-theme (0.2-2) tambora; urgency=low
+
+  * Reupload from Git
+
+ -- princeofgiri <princeofgiri@di.blankon.in>  Fri, 03 Apr 2015 09:35:08 +0700
+
+tebu-icon-theme (0.2-1) tambora; urgency=low
+
+  * Tebu icon theme release 0.2 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Sat, 21 Mar 2015 13:40:25 +0700
+
+tebu-icon-theme (0.1) tambora; urgency=low
+
+  * Initial release 
+
+ -- unknown <syai.unipdu@gmail.com>  Tue, 08 Jul 2014 22:33:57 +0700

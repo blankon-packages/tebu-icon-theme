@@ -1,0 +1,128 @@
+<svg height="96" width="96" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter x="-0.192" y="-0.192" height="1.384" color-interpolation-filters="sRGB" id="filter3794-58" width="1.384">
+   <feGaussianBlur stdDeviation="5.28"/>
+  </filter>
+  <linearGradient x2="0" y1="20.221" y2="138.66" gradientUnits="userSpaceOnUse" id="linearGradient11029">
+   <stop stop-color="#fff"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient x2="0" y1="90" y2="5.988" gradientUnits="userSpaceOnUse" id="linearGradient8339" gradientTransform="matrix(1.0959 0 0 1.0685 -4.442 -3.204)">
+   <stop stop-color="#ebebeb"/>
+   <stop stop-color="#fafafa" offset="1"/>
+  </linearGradient>
+  <radialGradient cy="360.77" r="21.302" gradientUnits="userSpaceOnUse" id="radialGradient8416" cx="303.16" gradientTransform="matrix(0.44073 -0.24657 0.39119 0.69922 -196.61 -156.38)">
+   <stop stop-color="#b4b4b4"/>
+   <stop stop-color="#b4b4b4" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <linearGradient x2="0" y1="48.04" y2="79.52" spreadMethod="reflect" gradientUnits="userSpaceOnUse" id="linearGradient12223" gradientTransform="matrix(1 0 0 1 338.87 -254.78)">
+   <stop stop-color="#4caaff"/>
+   <stop stop-color="#9fd7f8" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath3613-30">
+   <use xlink:href="#SVGCleanerId_1"/>
+  </clipPath>
+  <clipPath id="clipPath3914">
+   <use xlink:href="#SVGCleanerId_2"/>
+  </clipPath>
+  <linearGradient x2="0" y1="48" y2="72" spreadMethod="reflect" gradientUnits="userSpaceOnUse" id="linearGradient20014">
+   <stop stop-color="#5184cf"/>
+   <stop stop-color="#123a76" offset="1"/>
+  </linearGradient>
+  <radialGradient cy="24" r="16" gradientUnits="userSpaceOnUse" id="radialGradient20016" cx="56">
+   <stop stop-color="#00ce99"/>
+   <stop stop-color="#00805f" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient cy="49.721" r="19.437" gradientUnits="userSpaceOnUse" id="radialGradient20018" cx="60.56">
+   <stop stop-color="#80e5ff"/>
+   <stop stop-color="#80e5ff" stop-opacity="0.403" offset="0.5"/>
+   <stop stop-color="#80e5ff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient cy="64.06" r="24.02" gradientUnits="userSpaceOnUse" id="radialGradient20020" cx="47.977">
+   <stop stop-color="#5fbcd3"/>
+   <stop stop-color="#5fbcd3" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath20293">
+   <use xlink:href="#SVGCleanerId_0"/>
+  </clipPath>
+  <path d="m17.747 5.5143c-6.6418 0-11.969 5.3946-11.969 12.062v61.031c0 6.668 5.327 12.031 11.969 12.031h60.813c6.6418 0 11.969-5.3632 11.969-12.031l-0.06245-33.438c-0.0731-3.3855-0.11339-5.4702-1.6562-8.3125l-16.283-29.967c-0.544-0.7689-1.558-1.3403-2.625-1.3747z" id="SVGCleanerId_0"/>
+  <rect x="6" rx="6" y="6" height="84" id="SVGCleanerId_1" width="84"/>
+  <rect x="12" y="20" height="56" id="SVGCleanerId_2" width="72"/>
+  <path d="m80 49.721a19.437 19.437 0 1 1 -38.874 0 19.437 19.437 0 1 1 38.874 0z" fill="url(#radialGradient20018)" color="#000000" id="SVGCleanerId_3"/>
+  <rect x="40" y="69" color="#000000" height="3" id="SVGCleanerId_4" width="3"/>
+ </defs>
+ <path d="m16.059 3.1081c-7.049 0-12.719 5.6697-12.719 12.719v64.531c0 7.049 5.6697 12.719 12.719 12.719h64.188c7.049 0 12.719-5.6697 12.719-12.719v-35.013c-0.0367-3.8222-0.0417-6.3452-1.8012-9.5856l-16.206-29.842c-1.0788-1.8835-2.0313-2.8088-5.1346-2.8088z" fill-opacity="0.02"/>
+ <path d="m16.497 3.7018c-6.9538 0-12.531 5.6087-12.531 12.562v63.656c0 6.9538 5.5775 12.531 12.531 12.531h63.312c6.9538 0 12.562-5.5775 12.562-12.531v-34.607c-0.0741-3.7145-0.0646-6.1373-1.775-9.2846l-16.222-29.849c-0.90306-1.708-1.7952-2.4773-4.5338-2.4773z" fill-opacity="0.039"/>
+ <path d="m16.934 4.3268c-6.8585 0-12.375 5.5165-12.375 12.375v62.781c0 6.8585 5.5165 12.375 12.375 12.375h62.438c6.8585 0 12.375-5.5165 12.375-12.375v-34.169c-0.0596-3.6037-0.0554-5.964-1.7158-9.0186l-16.222-29.842c-0.57824-1.2184-1.5501-2.1266-3.906-2.1266z" fill-opacity="0.078"/>
+ <path d="m17.372 4.9206c-6.7632 0-12.219 5.4555-12.219 12.219v61.906c0 6.7632 5.4555 12.219 12.219 12.219h61.562c6.7632 0 12.219-5.4555 12.219-12.219v-33.794c-0.0346-3.5165-0.0841-5.7358-1.6885-8.6896l-16.237-29.895c-0.43675-0.77203-1.3586-1.7467-3.3394-1.7467z" fill-opacity="0.157"/>
+ <use xlink:href="#SVGCleanerId_0" fill="url(#linearGradient8339)"/>
+ <path d="m344.83-206.32c1.5828 0 0.28855-23.91 2.6363-23.91 2.4177 0 0.28751 47.819 2.6363 47.819 2.3478 0 0.98808-35.865 2.6363-35.865 1.7182 0 0.49842 28.692 2.6363 28.692 2.068 0 0.42846-52.601 2.6363-52.601 2.1379 0 0.84817 47.819 2.6363 47.819 1.8581 0 0.84817-20.323 2.6363-20.323 1.8581 0 0.35803 36.149 2.6363 35.865 2.4177-0.3019 0.77813-51.26 2.6363-51.406 1.9281-0.15096 0.14958 55.139 2.6363 54.992 2.5576-0.15095 0.56837-43.037 2.6363-43.037 2.1379 0 0.77813 23.764 2.6363 23.91 1.9281 0.15095 0.84817-40.646 2.6363-40.646 1.8581 0 0.57258 45.225 2.6363 45.428 2.1648 0.21348 0.37239-24.901 2.6363-25.105 2.3627-0.21348 0.47149 15.541 2.6363 15.541 2.0659 0 0.4715-31.083 2.6363-31.083 2.0659 0 0.57042 47.819 2.6363 47.819 2.1648 0 0.87822-60.377 2.6363-59.774 1.8681 0.64044 0.86997 64.769 2.6363 64.556 1.7691-0.21348 0.86693-40.444 2.6363-40.646 1.8681-0.21348 0.47149 23.91 2.6363 23.91 2.2638 0 0.57043-31.083 2.6363-31.083 2.1648 0 0.37257 39.451 2.6363 39.451 2.3627 0 0.46924-44.233 2.6363-44.233 2.1648 0 0.57043 33.474 2.6363 33.474 1.967 0 0.86721-20.323 2.6363-20.323 1.868 0 0.76828 26.301 2.6363 26.301 1.967 0 0.76828-33.474 2.6363-33.474 1.967 0 0.17472 44.233 2.6363 44.233 2.5606 0 0.57067-52.826 2.6363-52.601 1.967 0.21348 0.95456 26.301 2.6363 26.301" fill="url(#linearGradient12223)" opacity="0.4"/>
+ <rect x="15" stroke-width="0.5" rx="12" y="15" clip-path="url(#clipPath3613-30)" fill="url(#linearGradient11029)" stroke="#fff" height="66" filter="url(#filter3794-58)" opacity="0.5" stroke-linecap="round" width="66" transform="matrix(1 0 0 1 -1.193 1.248)"/>
+ <g clip-path="url(#clipPath20293)">
+  <g transform="matrix(1 0 0 1 -146.69 90.61)">
+   <g clip-path="url(#clipPath3914)" transform="matrix(1 0 0 1 146.91 -90.05)">
+    <use xlink:href="#SVGCleanerId_2" fill="url(#linearGradient20014)" color="#000000"/>
+    <path d="m72 24a16 16 0 1 1 -32 0 16 16 0 1 1 32 0z" fill="url(#radialGradient20016)" color="#000000" opacity="0.5" transform="matrix(2.75 0 0 2.75 -126 -40)"/>
+    <use xlink:href="#SVGCleanerId_3" opacity="0.697" transform="matrix(0.92606 0 0 0.92606 20.478 -0.044)"/>
+    <path d="m72 64.058a24.023 24.023 0 1 1 -48.045 0 24.023 24.023 0 1 1 48.045 0z" fill="url(#radialGradient20020)" color="#000000" transform="matrix(1 0 0 1 -24 -16.06)"/>
+    <use xlink:href="#SVGCleanerId_3" opacity="0.434" transform="matrix(1 0 0 1 -12.563 -5.158)"/>
+   </g>
+   <g fill="#fff" transform="matrix(1 0 0 1 146.91 -90.05)">
+    <rect x="15" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="19" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="27" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="23" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="31" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="35" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="39" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="43" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="47" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="51" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="55" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="59" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="63" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="67" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="71" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="75" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="79" y="20" color="#000000" height="56" opacity="0.3" width="1"/>
+    <rect x="72" y="-84" color="#000000" height="72" opacity="0.3" width="1" transform="matrix(0 1 -1 0 0 0)"/>
+    <rect x="68" y="-84" color="#000000" height="72" opacity="0.3" width="1" transform="matrix(0 1 -1 0 0 0)"/>
+    <rect x="64" y="-84" color="#000000" height="72" opacity="0.3" width="1" transform="matrix(0 1 -1 0 0 0)"/>
+    <rect x="60" y="-84" color="#000000" height="72" opacity="0.3" width="1" transform="matrix(0 1 -1 0 0 0)"/>
+    <rect x="56" y="-84" color="#000000" height="72" opacity="0.3" width="1" transform="matrix(0 1 -1 0 0 0)"/>
+    <rect x="52" y="-84" color="#000000" height="72" opacity="0.3" width="1" transform="matrix(0 1 -1 0 0 0)"/>
+    <rect x="48" y="-84" color="#000000" height="72" opacity="0.3" width="1" transform="matrix(0 1 -1 0 0 0)"/>
+    <rect x="44" y="-84" color="#000000" height="72" opacity="0.3" width="1" transform="matrix(0 1 -1 0 0 0)"/>
+    <rect x="40" y="-84" color="#000000" height="72" opacity="0.3" width="1" transform="matrix(0 1 -1 0 0 0)"/>
+    <rect x="36" y="-84" color="#000000" height="72" opacity="0.3" width="1" transform="matrix(0 1 -1 0 0 0)"/>
+    <rect x="32" y="-84" color="#000000" height="72" opacity="0.3" width="1" transform="matrix(0 1 -1 0 0 0)"/>
+    <rect x="28" y="-84" color="#000000" height="72" opacity="0.3" width="1" transform="matrix(0 1 -1 0 0 0)"/>
+    <rect x="24" y="-84" color="#000000" height="72" opacity="0.3" width="1" transform="matrix(0 1 -1 0 0 0)"/>
+   </g>
+   <g fill="#fff" transform="matrix(1 0 0 1 146.91 -90.05)">
+    <rect x="72" y="69" color="#000000" height="3" width="3"/>
+    <rect x="76" y="65" color="#000000" height="3" width="3"/>
+    <rect x="76" y="61" color="#000000" height="3" width="3"/>
+    <rect x="72" y="57" color="#000000" height="3" width="3"/>
+    <rect x="64" y="61" color="#000000" height="3" width="3"/>
+    <rect x="64" y="65" color="#000000" height="3" width="3"/>
+    <rect x="56" y="69" color="#000000" height="3" width="3"/>
+    <rect x="52" y="69" color="#000000" height="3" width="3"/>
+    <rect x="48" y="65" color="#000000" height="3" width="3"/>
+    <rect x="48" y="61" color="#000000" height="3" width="3"/>
+    <rect x="52" y="57" color="#000000" height="3" width="3"/>
+    <rect x="56" y="57" color="#000000" height="3" width="3"/>
+    <rect x="40" y="57" color="#000000" height="3" width="3"/>
+    <rect x="40" y="61" color="#000000" height="3" width="3"/>
+    <rect x="40" y="65" color="#000000" height="3" width="3"/>
+    <use xlink:href="#SVGCleanerId_4"/>
+    <use xlink:href="#SVGCleanerId_4"/>
+    <rect x="68" y="69" color="#000000" height="3" width="3"/>
+    <rect x="68" y="57" color="#000000" height="3" width="3"/>
+   </g>
+  </g>
+ </g>
+ <path d="m71.473 4.4296c-7.4721 3.35-12.688 10.913-12.688 19.719 0 11.911 9.5167 21.562 21.281 21.562 4.3866 0 8.4555-1.3551 11.844-3.6562l-20.437-37.625z" stroke-width="0.1" fill="url(#radialGradient8416)"/>
+ <path d="m72.4 6.5777c-0.341-0.3041-0.564-0.3884-0.564-0.3884s0.83487 0.58215-0.16423 2.3199c-3.6996 5.3693-2.6956 12.724 2.4663 16.827l13.888 11.014c0.78033 0.57546 0.96083 0.84746 1.2481 1.2895z" fill="#ccc"/>
+ <path d="m72.648 6.9456c-0.26811-0.37128-0.48292-0.5133-0.48292-0.5133s0.74441 0.70007-0.21905 2.3758c-3.5676 5.1777-2.5994 12.27 2.3783 16.227l13.393 10.621c0.75249 0.55493 0.92655 0.81722 1.2036 1.2435z" fill="#fff"/>
+</svg>

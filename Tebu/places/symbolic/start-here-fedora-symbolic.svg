@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   id="svg3155"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="start-here-fedora-symbolic.svg">
+  <metadata
+     id="metadata3184">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3182"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="5.6025264"
+     inkscape:cy="7.5707413"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3155" />
+  <defs
+     id="defs3157">
+    <radialGradient
+       cy="126.15"
+       r="154.62"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4055"
+       cx="126.16"
+       gradientTransform="matrix(0.06341,0,0,0.06341,-20,6)">
+      <stop
+         stop-color="#003364"
+         stop-opacity="0"
+         id="stop3160" />
+      <stop
+         stop-color="#0067c8"
+         offset="1"
+         id="stop3162" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient4055"
+       id="radialGradient3383"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.06341,0,0,0.06341,-20,0)"
+       cx="126.16"
+       cy="126.15"
+       r="154.62" />
+  </defs>
+  <path
+     style="fill:#cccccc"
+     inkscape:connector-curvature="0"
+     id="path3172"
+     d="M 8,0 C 3.5838,0 0.003,3.5842 0,8 v 5.062 1.126 0.218 C 0,15.293 0.70735,16 1.5938,16 H 1.8125 8 C 12.417,15.998 16,12.417 16,8 16,3.5814 12.418,0 8,0 z m 2.312,2 C 12.348,2 14,3.6522 14,5.6875 14,7.7226 12.348,9.3438 10.312,9.3438 H 8.375 V 11.312 C 8.375,13.348 6.7225,15 4.6875,15 2.6523,15 1,13.348 1,11.312 1,9.2773 2.6522,7.6251 4.6875,7.625 H 6.625 V 5.6875 C 6.625,3.6522 8.2772,2 10.312,2 z m 0,1.75 C 9.2394,3.75 8.3769,4.6145 8.375,5.6875 V 7.375 c 0,0.1519 0.1295,0.25 0.2812,0.25 h 1.6558 c 1.075,0 1.969,-0.8633 1.969,-1.9375 C 12.281,4.6132 11.387,3.75 10.312,3.75 z M 4.6875,9.3438 c -1.0741,0 -1.9687,0.8942 -1.9687,1.9682 0,1.075 0.8946,1.938 1.9687,1.938 1.073,0 1.936,-0.865 1.9375,-1.938 V 9.625 C 6.625,9.4735 6.4955,9.3438 6.3438,9.3438 H 4.6875 z" />
+  <path
+     style="opacity:0.45000000000000001;fill:#333333"
+     inkscape:connector-curvature="0"
+     id="path3174"
+     d="m 10.75,2.0312 c 0.119,0.018 0.243,0.028 0.375,0.0626 C 11.003,2.0663 10.876,2.0462 10.75,2.0312 z m 0.375,0.0626 c 0.417,0.1092 0.75,0.4775 0.75,0.875 0,0.4804 -0.323,0.8124 -0.844,0.8124 -0.108,0 -0.229,0.0102 -0.312,0 0.888,0.1814 1.562,0.9663 1.562,1.9063 0,1.0742 -0.894,1.9375 -1.969,1.9375 H 9.9375 c 0.4755,0 0.8435,0.3978 0.8435,0.875 0,0.4774 -0.368,0.8438 -0.8435,0.8438 H 10.312 C 12.348,9.3438 14,7.7226 14,5.6875 14,3.931 12.77,2.4633 11.125,2.0938 z M 4.6875,7.625 C 2.6522,7.6251 1,9.2773 1,11.312 1,13.2 2.4213,14.752 4.25,14.969 4.1306,14.951 4.0075,14.91 3.875,14.875 3.4582,14.766 3.1252,14.429 3.125,14.031 c 0,-0.48 0.3223,-0.812 0.8438,-0.812 0.1076,0 0.2291,-0.01 0.3124,0 -0.8877,-0.182 -1.5624,-0.967 -1.5624,-1.907 0,-1.074 0.8946,-1.9682 1.9687,-1.9682 h 0.375 C 4.5864,9.3438 4.2188,8.9775 4.2188,8.5 4.2186,8.0198 4.6126,7.625 5.0938,7.625 H 4.6875 z m 1.7813,4.437 c -0.0986,0.233 -0.2303,0.45 -0.4063,0.626 0.176,-0.176 0.3077,-0.393 0.4063,-0.626 z" />
+</svg>

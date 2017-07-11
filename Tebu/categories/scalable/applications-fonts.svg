@@ -1,0 +1,60 @@
+<svg height="96" width="96" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <defs>
+  <filter x="-0.192" y="-0.192" height="1.384" color-interpolation-filters="sRGB" id="filter3794-787" width="1.384">
+   <feGaussianBlur stdDeviation="5.28"/>
+  </filter>
+  <clipPath id="clipPath3729-0">
+   <path d="m -88,6 c -3.324,0 -6,2.676 -6,6 l 0,72 c 0,3.324 2.676,6 6,6 l 72,0 c 3.324,0 6,-2.676 6,-6 l 0,-72 c 0,-3.324 -2.676,-6 -6,-6 l -72,0 z m 42.03125,18 5.40625,0 8.46875,44.59375 4.71875,0 L -28.03125,72 -45.5,72 l 0.65625,-3.40625 5.34375,0 -1.96875,-10.53125 -20.1875,0 -6.09375,10.53125 5.28125,0 -0.625,3.40625 -13.53125,0 0.65625,-3.40625 4.21875,0 L -45.96875,24 Z m -0.46875,7.78125 -13.21875,22.8125 17.59375,0 -4.375,-22.8125 z" inkscape:connector-curvature="0"/>
+  </clipPath>
+  <filter x="-0.142" y="-0.146" height="1.292" color-interpolation-filters="sRGB" id="filter3733-3" width="1.285">
+   <feGaussianBlur stdDeviation="3.03665"/>
+  </filter>
+  <linearGradient x1="16" x2="80" xlink:href="#linearGradient3676-1" gradientUnits="userSpaceOnUse" id="linearGradient3682-7" gradientTransform="matrix(1.125 0 0 0.5 -10 36)"/>
+  <linearGradient id="linearGradient3676-1">
+   <stop stop-color="#333333" stop-opacity="0"/>
+   <stop stop-color="#000000" stop-opacity="1" offset="0.25"/>
+   <stop stop-color="#000000" stop-opacity="1" offset="0.5"/>
+   <stop stop-color="#000000" stop-opacity="1" offset="0.75"/>
+   <stop stop-color="#333333" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient x1="16" x2="80" xlink:href="#linearGradient3676-1" gradientUnits="userSpaceOnUse" id="linearGradient3692-5" gradientTransform="matrix(0.875 0 0 0.5 18 -12)"/>
+  <linearGradient x1="16" x2="80" xlink:href="#linearGradient3676-1" gradientUnits="userSpaceOnUse" id="linearGradient3696-6" gradientTransform="matrix(0.5 0 0 0.5 40 -59)"/>
+  <linearGradient x1="16" x2="80" xlink:href="#linearGradient3676-1" gradientUnits="userSpaceOnUse" id="linearGradient3702-4" gradientTransform="matrix(1.25 0 0 0.5 -12 -108)"/>
+  <linearGradient x2="0" y1="72" y2="24" gradientUnits="userSpaceOnUse" id="linearGradient3689-3">
+   <stop stop-color="#2b4777" stop-opacity="1"/>
+   <stop stop-color="#5672a0" stop-opacity="1" offset="1"/>
+  </linearGradient>
+  <linearGradient x2="0" y1="20.221" y2="138.66" gradientUnits="userSpaceOnUse" id="linearGradient4140">
+   <stop stop-color="#ffffff" stop-opacity="1"/>
+   <stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath3613-3">
+   <use xlink:href="#SVGCleanerId_0"/>
+  </clipPath>
+  <linearGradient x2="0" y1="90" y2="5.988" gradientUnits="userSpaceOnUse" id="linearGradient3706" gradientTransform="matrix(1.07748 0 0 1.07748 -4.126 -3.719)">
+   <stop stop-color="#ebebeb" stop-opacity="1"/>
+   <stop stop-color="#fafafa" stop-opacity="1" offset="1"/>
+  </linearGradient>
+  <rect x="6" rx="6" y="6" height="84" id="SVGCleanerId_0" width="84"/>
+ </defs>
+ <g transform="matrix(1 0 0 1 0 -956.36)">
+  <rect x="3.353" rx="12.724" y="959.35" fill-opacity="0.02" height="89.98" width="89.62"/>
+  <rect x="3.959" rx="12.552" y="959.96" fill-opacity="0.039" height="88.76" width="88.41"/>
+  <rect x="4.564" rx="12.38" y="960.57" fill-opacity="0.078" height="87.55" width="87.2"/>
+  <rect x="5.17" rx="12.208" y="961.18" fill-opacity="0.157" height="86.33" width="85.991"/>
+ </g>
+ <path d="M 17.75 5.40625 C 11.108 5.40625 5.78125 10.80055 5.78125 17.46875 L 5.78125 78.5 C 5.78125 85.168 11.1078 90.53125 17.75 90.53125 L 78.5625 90.53125 C 85.2045 90.53125 90.53125 85.168 90.53125 78.5 L 90.53125 17.46875 C 90.53125 10.80075 85.2045 5.40625 78.5625 5.40625 L 17.75 5.40625 z " display="inline" fill="url(#linearGradient3706)" fill-opacity="1" fill-rule="nonzero" stroke="none"/>
+ <path d="m 5.7756,77.54 0,1.0133 c 0,6.668 5.3434,12.032 11.985,12.032 l 60.809,0 c 6.6418,0 11.985,-5.3645 11.985,-12.032 l 0,-1.0133 c 0,6.6681 -5.3434,12.032 -11.985,12.032 l -60.809,0 c -6.6418,0 -11.985,-5.3644 -11.985,-12.032 z" fill-opacity="0.098" inkscape:connector-curvature="0"/>
+ <path d="m 5.7756,73.44 0,5.0663 c 0,6.668 5.3434,12.032 11.985,12.032 l 60.809,0 c 6.6418,0 11.985,-5.3645 11.985,-12.032 l 0,-5.0663 c 0,6.6681 -5.3434,12.032 -11.985,12.032 l -60.809,0 c -6.6418,0 -11.985,-5.3643 -11.985,-12.032 z" fill-opacity="0.235" inkscape:connector-curvature="0"/>
+ <rect stroke="#ffffff" stroke-dasharray="none" clip-path="url(#clipPath3613-3)" stroke-dashoffset="0" stroke-linecap="round" height="66" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-width="0.5" display="inline" width="66" fill="url(#linearGradient4140)" fill-opacity="1" opacity="0.5" x="15" fill-rule="nonzero" filter="url(#filter3794-787)" y="15" rx="12" transform="matrix(1 0 0 1 0 -0.407)"/>
+ <g display="inline" transform="matrix(1 0 0 1 0 -0.407)">
+  <text font-style="italic" font-variant="normal" font-weight="normal" stroke="#ffffff" stroke-dasharray="none" clip-path="url(#clipPath3729-0)" stroke-miterlimit="4" stroke-width="2" text-anchor="start" line-height="125%" fill="none" opacity="0.6" writing-mode="lr-tb" x="-71.56" filter="url(#filter3733-3)" y="72" font-family="DejaVu Serif" font-size="65.843" font-stretch="normal" sodipodi:linespacing="125%" transform="matrix(1 0 0 1 100 0)"><tspan x="-71.56" y="72">A</tspan>
+  </text>
+  <rect x="8" stroke-width="2" y="71" fill="url(#linearGradient3682-7)" color="#000000" fill-opacity="1" stroke="none" height="1" visibility="visible" opacity="0.2" width="72"/>
+  <rect x="32" stroke-width="2" y="23" fill="url(#linearGradient3692-5)" color="#000000" fill-opacity="1" stroke="none" height="1" visibility="visible" opacity="0.12" width="56"/>
+  <rect x="48" stroke-width="2" y="-24" fill="url(#linearGradient3696-6)" color="#000000" fill-opacity="1" stroke="none" height="1" visibility="visible" opacity="0.15" width="32" transform="matrix(0 1 -1 0 0 0)"/>
+  <rect x="8" stroke-width="2" y="-73" fill="url(#linearGradient3702-4)" color="#000000" fill-opacity="1" stroke="none" height="1" visibility="visible" opacity="0.15" width="80" transform="matrix(0 1 -1 0 0 0)"/>
+  <text x="28.437" font-size="65.843" font-stretch="normal" font-style="italic" font-variant="normal" y="72" font-weight="normal" text-anchor="start" line-height="125%" fill="url(#linearGradient3689-3)" fill-opacity="1" stroke="none" writing-mode="lr-tb" font-family="DejaVu Serif" sodipodi:linespacing="125%"><tspan x="28.437" y="72">A</tspan>
+  </text>
+ </g>
+</svg>
