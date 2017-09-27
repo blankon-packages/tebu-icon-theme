@@ -1,3 +1,9 @@
+tebu-icon-theme (0.2-23) uluwatu; urgency=medium
+
+  * Rebuild for uluwatu
+
+ -- AnTo SamalonA <ansamsoftdev@gmail.com>  Thu, 28 Sep 2017 07:42:00 +0800
+
 tebu-icon-theme (0.2-22) tambora; urgency=medium
 
   * Change arch to all
